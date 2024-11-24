@@ -2,3 +2,5 @@
 /.idea/.gitignore
 /.idea/modules.xml
 /.idea/surgesignal.iml
+
+.env

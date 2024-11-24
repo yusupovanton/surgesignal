@@ -1,6 +1,6 @@
 module github.com/yusupovanton/surgesignal/tools
 
-go 1.22
+go 1.23.2
 
 require (
 	github.com/sqlc-dev/sqlc v1.26.0
